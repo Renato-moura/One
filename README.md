@@ -12,3 +12,4 @@ Repositorio destinado as atividades do curso da one - [alura](https://cursos.alu
    7. **HTML e CSS: trabalhando com responsividade e publicação de projetos**
    8. **Git e GitHub: compartilhando e colaborando em projetos**
    9. **Praticando lógica de programação: Challenge Decodificador de Texto**
+2.
