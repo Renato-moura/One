@@ -1,6 +1,6 @@
 # One-oracle-next-education
 
-Repositorio destinado as atividades do curso da one - [alura](https://cursos.alura.com.br/formacao-logica-de-programacao-turma7-one) 
+Repositorio destinado as atividades do curso da one - [alura](https://cursos.alura.com.br/user/renatomoura-ms) 
 
 1. Iniciante em Programação T7 - ONE
    1. **Lógica de programação: mergulhe em programação com JavaScript**
