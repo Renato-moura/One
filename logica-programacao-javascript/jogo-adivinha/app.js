@@ -19,5 +19,5 @@ while (chute != numeroSecreto) {
 }
 
 let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa' 
-document.getElementById("img").scr= "./img/bg.png";
+//document.getElementById("img").scr= "./img/bg.png";
 alert(`O número secreto era ${numeroSecreto} e você acertou com apenas ${tentativas} ${palavraTentativa}`)
